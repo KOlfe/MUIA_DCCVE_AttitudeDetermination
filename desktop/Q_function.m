@@ -27,6 +27,6 @@ function [R,Q] = Q_function(vectors_body, vectors_inertial)
 
 %% Q algorithm
 R = [1 0 0; 0 1 0; 0 0 1];
-Q = [1; 0; 0; 0];
+Q = [1 0 0 0];
 end
 

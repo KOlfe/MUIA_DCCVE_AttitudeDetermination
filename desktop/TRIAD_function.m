@@ -28,5 +28,5 @@ function [R,Q] = TRIAD_function(vectors_body, vectors_inertial)
 
 %% TRIAD algorithm
 R = [1 0 0; 0 1 0; 0 0 1];
-Q = [1; 0; 0; 0];
+Q = [1 0 0 0];
 end

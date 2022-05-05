@@ -2,7 +2,7 @@
 Encoding=UTF-8
 Version=1.0
 Name=Q_Method
-Exec=/opt/42/muia_dccve/desktop/startQ.sh
-Icon=/opt/42/muia_dccve/desktop/3d-cube.png
+Exec=/opt/42/MUIA_DCCVE_AttitudeDetermination/desktop/startQ.sh
+Icon=/opt/42/MUIA_DCCVE_AttitudeDetermination/desktop/3d-cube.png
 Type=Application
 Terminal=true

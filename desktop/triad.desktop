@@ -1,0 +1,8 @@
+[Desktop Entry]
+Encoding=UTF-8
+Version=1.0
+Name=TRIAD_Method
+Exec=/opt/42/muia_dccve/desktop/startTRIAD.sh
+Icon=/opt/42/muia_dccve/desktop/axis.png
+Type=Application
+Terminal=true
